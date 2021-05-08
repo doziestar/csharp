@@ -1,0 +1,15 @@
+/Users/dozie/Documents/GitHub/csharp/bin/Debug/net5.0/csharp.deps.json
+/Users/dozie/Documents/GitHub/csharp/bin/Debug/net5.0/csharp.runtimeconfig.json
+/Users/dozie/Documents/GitHub/csharp/bin/Debug/net5.0/csharp.runtimeconfig.dev.json
+/Users/dozie/Documents/GitHub/csharp/bin/Debug/net5.0/csharp.dll
+/Users/dozie/Documents/GitHub/csharp/bin/Debug/net5.0/ref/csharp.dll
+/Users/dozie/Documents/GitHub/csharp/bin/Debug/net5.0/csharp.pdb
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.csprojAssemblyReference.cache
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.AssemblyInfoInputs.cache
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.AssemblyInfo.cs
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.csproj.CoreCompileInputs.cache
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.dll
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/ref/csharp.dll
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.pdb
+/Users/dozie/Documents/GitHub/csharp/obj/Debug/net5.0/csharp.genruntimeconfig.cache
